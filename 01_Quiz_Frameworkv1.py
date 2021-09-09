@@ -6,8 +6,8 @@ from functools import partial
 class Quiz:
     def __init__(self):
         print("testing")
- 
-        #Background design
+
+        #Background design tset
 
         background_color = "dark blue"
 
